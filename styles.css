@@ -58,7 +58,7 @@ p {
 }
 
 header {
-  background: url(images/image-hero-desktop.jpg);
+  background: url(image-hero-desktop.jpg);
   background-size: cover;
   color: #fff;
   background-repeat: no-repeat;
@@ -106,7 +106,7 @@ nav .links li:hover {
 
 @media (max-width: 700px) {
   header {
-    background: url(images/image-hero-mobile.jpg);
+    background: url(image-hero-mobile.jpg);
     background-size: 100vw 25rem;
   }
 
